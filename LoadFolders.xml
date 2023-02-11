@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<loadFolders>
+	<v1.4>
+	<li>Contents</li>
+	<li>1.4</li>
+		<li IfModActive="shauaputa.rimnudeworld">Rimnude</li>
+	</v1.4>
+</loadFolders>

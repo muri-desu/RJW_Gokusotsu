@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+	<rjw.RaceGroupDef>
+		<defName>Gokusotsu</defName>
+
+		<raceNames>
+			<li>Alien_Gokusotsu</li>
+		</raceNames>
+
+		<anuses>
+			<li>DemonAnus</li>
+		</anuses>
+
+		<femaleBreasts>
+			<li>Breasts</li>
+		</femaleBreasts>
+
+		<femaleGenitals>
+			<li>DemonVagina</li>
+			<li>DemonPenis</li>
+		</femaleGenitals>
+
+		<maleBreasts>
+			<li>Breasts</li>
+		</maleBreasts>
+
+		<maleGenitals>
+			<li>DemonPenis</li>
+		</maleGenitals>
+
+		<tags>
+			<li>Demon</li>
+			<li>Skin</li>
+		</tags>
+
+		<raceSexDrive>1.1</raceSexDrive>
+		<hasSingleGender>false</hasSingleGender>
+		<hasSexNeed>true</hasSexNeed>
+		<hasFertility>true</hasFertility>
+		<hasPregnancy>true</hasPregnancy>
+		<oviPregnancy>false</oviPregnancy>
+		<ImplantEggs>false</ImplantEggs>
+
+	</rjw.RaceGroupDef>
+
+	<rjw.RaceGroupDef>
+		<defName>Mezu</defName>
+
+		<raceNames>
+			<li>GHG_Mezu</li>
+		</raceNames>
+
+		<anuses>
+			<li>Anus</li>
+		</anuses>
+
+		<femaleBreasts>
+			<li>Breasts</li>
+		</femaleBreasts>
+
+		<femaleGenitals>
+			<li>DemonVagina</li>
+			<li>HorsePenis</li>
+		</femaleGenitals>
+
+		<maleBreasts>
+			<li>Breasts</li>
+		</maleBreasts>
+
+		<maleGenitals>
+			<li>HorsePenis</li>
+		</maleGenitals>
+
+		<tags>
+			<li>Skin</li>
+			<li>Fur</li>
+			<li>Demon</li>
+		</tags>
+
+		<raceSexDrive>1.1</raceSexDrive>
+		<hasSingleGender>false</hasSingleGender>
+		<hasSexNeed>true</hasSexNeed>
+		<hasFertility>true</hasFertility>
+		<hasPregnancy>true</hasPregnancy>
+		<oviPregnancy>false</oviPregnancy>
+		<ImplantEggs>false</ImplantEggs>
+
+	</rjw.RaceGroupDef>
+
+	<rjw.RaceGroupDef>
+		<defName>Gozu</defName>
+
+		<raceNames>
+			<li>GHG_Gozu</li>
+		</raceNames>
+
+		<anuses>
+			<li>Anus</li>
+		</anuses>
+
+		<femaleBreasts>
+			<li>Breasts</li>
+		</femaleBreasts>
+
+		<femaleGenitals>
+			<li>DemonVagina</li>
+			<li>DemonPenis</li>
+		</femaleGenitals>
+
+		<maleBreasts>
+			<li>Breasts</li>
+		</maleBreasts>
+
+		<maleGenitals>
+			<li>DemonPenis</li>
+		</maleGenitals>
+
+		<tags>
+			<li>Skin</li>
+			<li>Fur</li>
+			<li>Demon</li>
+		</tags>
+
+		<raceSexDrive>1.1</raceSexDrive>
+		<hasSingleGender>false</hasSingleGender>
+		<hasSexNeed>true</hasSexNeed>
+		<hasFertility>true</hasFertility>
+		<hasPregnancy>true</hasPregnancy>
+		<oviPregnancy>false</oviPregnancy>
+		<ImplantEggs>false</ImplantEggs>
+
+	</rjw.RaceGroupDef>
+
+</Defs>

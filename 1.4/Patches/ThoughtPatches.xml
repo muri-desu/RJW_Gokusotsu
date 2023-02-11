@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Patch>
+	<Operation Class="PatchOperationAdd">
+		<xpath>/Defs/AlienRace.ThingDef_AlienRace[defName="Alien_Gokusotsu" or defName="GHG_Mezu" or defName="GHG_Gozu"]/alienRace</xpath>
+		<value>
+				<thoughtSettings>
+					<cannotReceiveThoughts>
+						<li>GotRaped</li>
+						<li>GotAnalRaped</li>
+						<li>GotAnalRapedByFemale</li>
+						<li>GotRapedUnconscious</li>
+						<li>GotBredByAnimal</li>
+						<li>AllowedAnimalToBreed</li>
+						<li>GotLickedByAnimal</li>
+						<li>GotGropedByAnimal</li>
+						<li>AllowedAnimalToGrope</li>
+						<li>HateMyRapist</li>
+						<li>AllowedMeToGetRaped</li>
+						<li>FeelingBroken</li>
+					</cannotReceiveThoughts>
+				</thoughtSettings>
+		</value>
+	</Operation>
+</Patch>
