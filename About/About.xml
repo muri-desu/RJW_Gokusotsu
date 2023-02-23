@@ -11,10 +11,12 @@
 	<li>
 		<packageId>rim.job.world</packageId>
 		<displayName>RJW</displayName>
+		<downloadUrl>https://gitgud.io/Ed86</downloadUrl>
 	</li>
 	<li>
 		<packageId>muri.gokusotsu</packageId>
 		<displayName>Gokusotsu the Hell Guard</displayName>
+		<downloadUrl>https://steamcommunity.com/sharedfiles/filedetails/?id=2892925626</downloadUrl>
 	</li>
 </modDependencies>
 <loadAfter>
